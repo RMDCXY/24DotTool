@@ -1,6 +1,7 @@
 ## 24DotTool
 
-![image](https://github.com/user-attachments/assets/b65d95d2-a6f3-4a80-8d0f-308bdbbff8eb)
+![image](https://github.com/user-attachments/assets/9d6df3ff-3f70-42fe-8892-9db41e8f4b7b)
+
 
 #### 为破解24点数学游戏而生
 
